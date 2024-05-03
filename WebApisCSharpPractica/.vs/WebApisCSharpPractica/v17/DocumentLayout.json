@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D50012FF-4002-4055-9AE6-20C551BD5423}|WebApiHostInventory\\WebApiHostInventory.csproj|c:\\programacion\\webapiscsharp\\webapiscsharppractica\\webapihostinventory\\webapihostinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D50012FF-4002-4055-9AE6-20C551BD5423}|WebApiHostInventory\\WebApiHostInventory.csproj|solutionrelative:webapihostinventory\\webapihostinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D50012FF-4002-4055-9AE6-20C551BD5423}|WebApiHostInventory\\WebApiHostInventory.csproj|c:\\programacion\\webapiscsharp\\webapiscsharppractica\\webapihostinventory\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D50012FF-4002-4055-9AE6-20C551BD5423}|WebApiHostInventory\\WebApiHostInventory.csproj|solutionrelative:webapihostinventory\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50012FF-4002-4055-9AE6-20C551BD5423}|WebApiHostInventory\\WebApiHostInventory.csproj|c:\\programacion\\webapiscsharp\\webapiscsharppractica\\webapihostinventory\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D50012FF-4002-4055-9AE6-20C551BD5423}|WebApiHostInventory\\WebApiHostInventory.csproj|solutionrelative:webapihostinventory\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50012FF-4002-4055-9AE6-20C551BD5423}|WebApiHostInventory\\WebApiHostInventory.csproj|c:\\programacion\\webapiscsharp\\webapiscsharppractica\\webapihostinventory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D50012FF-4002-4055-9AE6-20C551BD5423}|WebApiHostInventory\\WebApiHostInventory.csproj|solutionrelative:webapihostinventory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50012FF-4002-4055-9AE6-20C551BD5423}|WebApiHostInventory\\WebApiHostInventory.csproj|c:\\programacion\\webapiscsharp\\webapiscsharppractica\\webapihostinventory\\aws-lambda-tools-defaults.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D50012FF-4002-4055-9AE6-20C551BD5423}|WebApiHostInventory\\WebApiHostInventory.csproj|solutionrelative:webapihostinventory\\aws-lambda-tools-defaults.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D50012FF-4002-4055-9AE6-20C551BD5423}|WebApiHostInventory\\WebApiHostInventory.csproj|c:\\programacion\\webapiscsharp\\webapiscsharppractica\\webapihostinventory\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D50012FF-4002-4055-9AE6-20C551BD5423}|WebApiHostInventory\\WebApiHostInventory.csproj|solutionrelative:webapihostinventory\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50012FF-4002-4055-9AE6-20C551BD5423}|WebApiHostInventory\\WebApiHostInventory.csproj|c:\\programacion\\webapiscsharp\\webapiscsharppractica\\webapihostinventory\\webapihostinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D50012FF-4002-4055-9AE6-20C551BD5423}|WebApiHostInventory\\WebApiHostInventory.csproj|solutionrelative:webapihostinventory\\webapihostinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,19 +39,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WebApiHostInventory",
-              "DocumentMoniker": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\WebApiHostInventory\\WebApiHostInventory.csproj",
-              "RelativeDocumentMoniker": "WebApiHostInventory\\WebApiHostInventory.csproj",
-              "ToolTip": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\WebApiHostInventory\\WebApiHostInventory.csproj",
-              "RelativeToolTip": "WebApiHostInventory\\WebApiHostInventory.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-03T21:52:17.878Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\WebApiHostInventory\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApiHostInventory\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\WebApiHostInventory\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApiHostInventory\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T22:10:09.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\WebApiHostInventory\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApiHostInventory\\appsettings.Development.json",
+              "ToolTip": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\WebApiHostInventory\\appsettings.Development.json",
+              "RelativeToolTip": "WebApiHostInventory\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T22:10:05.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "aws-lambda-tools-defaults.json",
+              "DocumentMoniker": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\WebApiHostInventory\\aws-lambda-tools-defaults.json",
+              "RelativeDocumentMoniker": "WebApiHostInventory\\aws-lambda-tools-defaults.json",
+              "ToolTip": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\WebApiHostInventory\\aws-lambda-tools-defaults.json",
+              "RelativeToolTip": "WebApiHostInventory\\aws-lambda-tools-defaults.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T22:10:01.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\WebApiHostInventory\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiHostInventory\\appsettings.json",
+              "ToolTip": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\WebApiHostInventory\\appsettings.json",
+              "RelativeToolTip": "WebApiHostInventory\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T22:09:58.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApiHostInventory.csproj",
+              "DocumentMoniker": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\WebApiHostInventory\\WebApiHostInventory.csproj",
+              "RelativeDocumentMoniker": "WebApiHostInventory\\WebApiHostInventory.csproj",
+              "ToolTip": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\WebApiHostInventory\\WebApiHostInventory.csproj",
+              "RelativeToolTip": "WebApiHostInventory\\WebApiHostInventory.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-03T21:52:17.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ValuesController.cs",
               "DocumentMoniker": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\WebApiHostInventory\\Controllers\\ValuesController.cs",
               "RelativeDocumentMoniker": "WebApiHostInventory\\Controllers\\ValuesController.cs",
