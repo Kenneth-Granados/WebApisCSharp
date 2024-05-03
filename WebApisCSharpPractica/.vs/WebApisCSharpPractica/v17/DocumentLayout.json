@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D50012FF-4002-4055-9AE6-20C551BD5423}|WebApiHostInventory\\WebApiHostInventory.csproj|c:\\programacion\\webapiscsharp\\webapiscsharppractica\\webapihostinventory\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D50012FF-4002-4055-9AE6-20C551BD5423}|WebApiHostInventory\\WebApiHostInventory.csproj|solutionrelative:webapihostinventory\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50012FF-4002-4055-9AE6-20C551BD5423}|WebApiHostInventory\\WebApiHostInventory.csproj|c:\\programacion\\webapiscsharp\\webapiscsharppractica\\webapihostinventory\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50012FF-4002-4055-9AE6-20C551BD5423}|WebApiHostInventory\\WebApiHostInventory.csproj|solutionrelative:webapihostinventory\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50012FF-4002-4055-9AE6-20C551BD5423}|WebApiHostInventory\\WebApiHostInventory.csproj|c:\\programacion\\webapiscsharp\\webapiscsharppractica\\webapihostinventory\\localentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50012FF-4002-4055-9AE6-20C551BD5423}|WebApiHostInventory\\WebApiHostInventory.csproj|solutionrelative:webapihostinventory\\localentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50012FF-4002-4055-9AE6-20C551BD5423}|WebApiHostInventory\\WebApiHostInventory.csproj|c:\\programacion\\webapiscsharp\\webapiscsharppractica\\webapihostinventory\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50012FF-4002-4055-9AE6-20C551BD5423}|WebApiHostInventory\\WebApiHostInventory.csproj|solutionrelative:webapihostinventory\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\WebApiHostInventory\\Startup.cs",
+              "RelativeDocumentMoniker": "WebApiHostInventory\\Startup.cs",
+              "ToolTip": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\WebApiHostInventory\\Startup.cs",
+              "RelativeToolTip": "WebApiHostInventory\\Startup.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wCQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T21:44:07.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocalEntryPoint.cs",
+              "DocumentMoniker": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\WebApiHostInventory\\LocalEntryPoint.cs",
+              "RelativeDocumentMoniker": "WebApiHostInventory\\LocalEntryPoint.cs",
+              "ToolTip": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\WebApiHostInventory\\LocalEntryPoint.cs",
+              "RelativeToolTip": "WebApiHostInventory\\LocalEntryPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T21:44:03.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\WebApiHostInventory\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApiHostInventory\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\WebApiHostInventory\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApiHostInventory\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T21:41:14.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\WebApiHostInventory\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "WebApiHostInventory\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\WebApiHostInventory\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "WebApiHostInventory\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwB0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T21:31:09.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
