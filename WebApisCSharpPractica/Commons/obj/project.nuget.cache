@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cxCVtV8GcLL5azJQCmOzn2Q1DzO3sa/76RNcni4v9bXjfAYwI/A+iynhRnlqCNagLGBTqzcBKdGFzzrQ8DdT/w==",
+  "dgSpecHash": "XVH/T0qrB7hks/x0NZLgeK98s3HS2vSFH3vvJ5M4NaYjYLaZv9IgZWg9frueHd7QbTOY55waMawCAtk8ft6B9g==",
   "success": true,
-  "projectFilePath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Commons\\Commons.vbproj",
+  "projectFilePath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Commons\\Commons.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

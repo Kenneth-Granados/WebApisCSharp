@@ -4,12 +4,12 @@
     "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\WebApiHostInventory\\WebApiHostInventory.csproj": {}
   },
   "projects": {
-    "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Commons\\Commons.vbproj": {
+    "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Commons\\Commons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Commons\\Commons.vbproj",
+        "projectUniqueName": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Commons\\Commons.csproj",
         "projectName": "Commons",
-        "projectPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Commons\\Commons.vbproj",
+        "projectPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Commons\\Commons.csproj",
         "packagesPath": "C:\\Users\\kenne\\.nuget\\packages\\",
         "outputPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Commons\\obj\\",
         "projectStyle": "PackageReference",
@@ -68,12 +68,12 @@
         }
       }
     },
-    "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Models\\Models.vbproj": {
+    "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Models\\Models.vbproj",
+        "projectUniqueName": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Models\\Models.vbproj",
+        "projectPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\kenne\\.nuget\\packages\\",
         "outputPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Models\\obj\\",
         "projectStyle": "PackageReference",
@@ -96,8 +96,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Commons\\Commons.vbproj": {
-                "projectPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Commons\\Commons.vbproj"
+              "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Commons\\Commons.csproj": {
+                "projectPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Commons\\Commons.csproj"
               }
             }
           }
@@ -136,12 +136,12 @@
         }
       }
     },
-    "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Repository\\Repository.vbproj": {
+    "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Repository\\Repository.vbproj",
+        "projectUniqueName": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Repository\\Repository.vbproj",
+        "projectPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\kenne\\.nuget\\packages\\",
         "outputPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Repository\\obj\\",
         "projectStyle": "PackageReference",
@@ -164,8 +164,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Models\\Models.vbproj": {
-                "projectPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Models\\Models.vbproj"
+              "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Models\\Models.csproj": {
+                "projectPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Models\\Models.csproj"
               }
             }
           }
@@ -204,12 +204,12 @@
         }
       }
     },
-    "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Services\\Services.vbproj": {
+    "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Services\\Services.vbproj",
+        "projectUniqueName": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Services\\Services.vbproj",
+        "projectPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\kenne\\.nuget\\packages\\",
         "outputPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Services\\obj\\",
         "projectStyle": "PackageReference",
@@ -232,8 +232,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Repository\\Repository.vbproj": {
-                "projectPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Repository\\Repository.vbproj"
+              "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Repository\\Repository.csproj"
               }
             }
           }
@@ -300,8 +300,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Services\\Services.vbproj": {
-                "projectPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Services\\Services.vbproj"
+              "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Services\\Services.csproj": {
+                "projectPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Services\\Services.csproj"
               }
             }
           }

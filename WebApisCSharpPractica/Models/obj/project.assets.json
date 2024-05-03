@@ -17,8 +17,8 @@
   "libraries": {
     "Commons/1.0.0": {
       "type": "project",
-      "path": "../Commons/Commons.vbproj",
-      "msbuildProject": "../Commons/Commons.vbproj"
+      "path": "../Commons/Commons.csproj",
+      "msbuildProject": "../Commons/Commons.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -33,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Models\\Models.vbproj",
+      "projectUniqueName": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Models\\Models.vbproj",
+      "projectPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Models\\Models.csproj",
       "packagesPath": "C:\\Users\\kenne\\.nuget\\packages\\",
       "outputPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Models\\obj\\",
       "projectStyle": "PackageReference",
@@ -58,8 +58,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Commons\\Commons.vbproj": {
-              "projectPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Commons\\Commons.vbproj"
+            "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Commons\\Commons.csproj": {
+              "projectPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Commons\\Commons.csproj"
             }
           }
         }

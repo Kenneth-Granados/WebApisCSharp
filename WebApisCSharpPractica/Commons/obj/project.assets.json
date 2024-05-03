@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Commons\\Commons.vbproj",
+      "projectUniqueName": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Commons\\Commons.csproj",
       "projectName": "Commons",
-      "projectPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Commons\\Commons.vbproj",
+      "projectPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Commons\\Commons.csproj",
       "packagesPath": "C:\\Users\\kenne\\.nuget\\packages\\",
       "outputPath": "C:\\Programacion\\WebApisCSharp\\WebApisCSharpPractica\\Commons\\obj\\",
       "projectStyle": "PackageReference",
